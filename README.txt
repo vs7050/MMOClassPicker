@@ -1,3 +1,6 @@
+Oct, 2021
+Client Programming Project 1 
+
 Only Shows on Hover (CSS hover, not DHTML)
 - To give the page a 'mystical' feeling, the words only appear if you are hovering
     the page, like magic ink. If you take your cursor off the screen, the prompts 
